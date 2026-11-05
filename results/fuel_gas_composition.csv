@@ -1,0 +1,7 @@
+config,fuel_H2_vol_dry,fuel_CO_vol_dry,fuel_CO2_vol_dry,fuel_CH4_vol_dry,fuel_N2_vol_dry,fuel_Ar_vol_dry,fuel_H2O_vol_wet
+air,17.64,20.13,12.83,3.03,45.8,0.57,9.08
+oxy_none,39.65,25.54,28.41,6.2,0.11,0.09,9.08
+oxy_partial,2.02,0.02,31.06,66.59,0.17,0.14,0.74
+oxy_full,6.51,0.0,1.63,91.57,0.16,0.13,0.74
+oxy_none_elec,55.07,19.02,21.15,4.62,0.08,0.06,6.92
+steam_dfb,51.0,19.7,21.36,7.82,0.11,0.0,9.08
